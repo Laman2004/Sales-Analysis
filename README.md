@@ -6,7 +6,7 @@ An interactive business intelligence dashboard for sales performance evaluation 
 
 ### Dashboard Preview
 
-![Sales Dashboard](Sales-Analysis.png)
+![Sales Dashboard](#Sales-Analysis.PNG)
 
 ### Project Preview
 
